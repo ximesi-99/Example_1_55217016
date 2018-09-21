@@ -1,0 +1,19 @@
+p {
+    font-family: cursive;
+    color: brown;
+}
+
+.title {
+    color: green;
+}
+
+#local {
+    width: 350px;
+	height: 250px;
+}
+
+#logo {
+    width: 70px;
+	height: 40px;
+	margin: 0 5px;
+}
